@@ -3,7 +3,7 @@ aurora.js
 
 Javascript graph library
 
-Dependency: science.js https://github.com/jasondavies/science.js/
+Dependency: science.js https://github.com/jasondavies/science.js/, underscore.js http://underscorejs.org/
 
 Support:
 
