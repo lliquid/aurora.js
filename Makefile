@@ -10,8 +10,8 @@ all: \
 	src/matrix.js \
 	src/graph.js
 
-test: all
-	@$(JS_TESTER)
+# test: all
+# 	@$(JS_TESTER)
 
 aurora.min.js: aurora.js Makefile
 	@rm -f $@
