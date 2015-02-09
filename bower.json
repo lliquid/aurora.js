@@ -1,0 +1,8 @@
+{
+  "name": "aurora",
+  "version": "1.0.0",
+  "main": "aurora.js",
+  "dependencies": {
+    "underscore": "1.7.0"
+  }
+}
