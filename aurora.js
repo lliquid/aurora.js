@@ -46,22 +46,25 @@ matrix = function () {
         //depend on science.lin.decompose routine in the package science.js
         //https://github.com/jasondavies/science.js/
         eigen: function(mat) {
+
             var decomposefunc = science.lin.decompose();
             var rs = decomposefunc.call(null, mat);
-            var es = this.trace(rs.D)
-                o = algo.order(es);
+            var es = this.trace(rs.D),
+                o = _.sortBy(_.range(0, es.length), function(i) {return es[i]});
             var ev = [];
             for (var i = 0, ii = o.length; i < ii; i ++) {
                 ev.push(this.col(o[i], rs.V));
             }
-            algo.sort(es);
+            es.sort()
             //IDX is the first nonzero eigenvalue
             var i = 0;
             for (ii = es.length; i < ii; i ++) {
                 if (Math.abs(es[i]) > this.consts.ZERO)
                     break;
             }
+
             return {E : es, V: ev, IDX: i};
+            
         },
 
         find_maximum_rectangle: function(mat) {
