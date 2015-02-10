@@ -464,7 +464,8 @@ _.extend(Graph.prototype, {
             this.addLink(i,
                 data.nodes[data.links[i].source].id,
                 data.nodes[data.links[i].target].id
-            );
+            )
+            this.updateLinkAttrs(data.links[i], i)
         }
 
     }
