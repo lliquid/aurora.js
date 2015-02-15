@@ -825,6 +825,53 @@ _.extend(Graph.prototype, {
 
 _.extend(Graph.prototype, {
 
+    aggregate: function(params) {
+
+        var lblFld = params.labelField,
+            attrFlds = params.attrFields,
+            nids = this.getNodes(),
+            eids = this.getLinks()
+
+        var cg = new Graph()
+
+        for (var i = 0; i < nids.length; i++) {
+
+            var node = this.node(nids[i]),
+                gid = node.attrs[lblFld],
+                attrs = this.getNodeAttrs(attrFlds || [], node.id) 
+
+            if (!cg.hasNode(gid)) {
+                cg.addNode(gid, { children: [] })
+                cg.updateNodeAttrs(attrs, gid)
+            }
+
+            cg.node(gid).attrs['children'].push(node.id)
+        }
+
+        for (var i = 0; i < eids.length; i++) {
+            var link = this.link(eids[i]),
+                src = this.node(link.source),
+                tgt = this.node(link.target),
+                gid_src = src.attrs[lblFld],
+                gid_tgt = tgt.attrs[lblFld]
+
+            if (!cg.hasLink(gid_src, gid_tgt)) {
+                cg.addLink(gid_src + '_' + gid_tgt, gid_src, gid_tgt, {children: []});
+            }
+
+            cg.link(gid_src + '_' + gid_tgt).attrs['children'].push(link.id)
+
+        }
+
+        return cg;
+
+    }
+
+})
+
+
+_.extend(Graph.prototype, {
+
         bundles: function(nids) {
 
         var mat = this.adjacencyMatrix(nids),
