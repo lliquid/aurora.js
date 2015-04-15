@@ -753,29 +753,6 @@ _.extend(Graph.prototype, {
 
 });
 
-
-_.extend(Graph.prototype, {
-
-    test : function() {
-
-        g_test = new Graph();
-        g_test.addNode('a');
-        g_test.addNode('b');
-        g_test.addNode('c');
-        g_test.addNode('d');
-        g_test.addNode('e');
-
-        g_test.addLink('ab', 'a', 'b');
-        g_test.addLink('ac', 'a', 'c');
-        g_test.addLink('ad', 'a', 'd');
-        g_test.addLink('de', 'd', 'e');
-        g_test.addLink('cb', 'c' ,'b');
-        g_test.addLink('cc', 'c', 'c');
-
-    }
-});
-
-
 _.extend(Graph.prototype, {
 
     //TODO MUST include weight in the adjacency matrix
