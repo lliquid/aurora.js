@@ -11,9 +11,7 @@ Graph creation and manipulation
 
 1. Add/delete node and links to an existing graph
 2. Update/retrieval of node attributes
-3. Get a subgraph by specifying a subset of nodes
-4. Load json format graph exported from networkx
-5. Breath first node traversal given a starting node
+3. Load json format graph exported from networkx
 
 
 Graph statistics
