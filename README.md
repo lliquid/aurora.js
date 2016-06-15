@@ -21,10 +21,13 @@ Graph statistics
 3. Get the Fieldler vector of a graph
 
 
-####Experimental features
 
-1. Clique and bi-clique detection
 
 
 More to come ...
 
+####Experimental features
+
+1. Clique and bi-clique detection
+
+####Examples
