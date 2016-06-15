@@ -1,5 +1,1 @@
-*.sublime-project
-*.sublime-workspace
-node_modules/*
-lib/*
-.idea/*
+.DS_Store
