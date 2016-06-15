@@ -1,4 +1,5 @@
-Aurora - a Javascript Graph Library for Visualization
+A Javascript Graph Library for Visualization
+Aurora 
 =========
 
 Dependency: science.js https://github.com/jasondavies/science.js/, underscore.js http://underscorejs.org/
