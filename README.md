@@ -1,10 +1,10 @@
-A Javascript Graph Library for Visualization
-Aurora 
-=========
+##Aurora: A Javascript Graph Library for Visualization
 
-Dependency: science.js https://github.com/jasondavies/science.js/, underscore.js http://underscorejs.org/
+####Dependencies: 
 
-Support:
+science.js https://github.com/jasondavies/science.js/, underscore.js http://underscorejs.org/
+
+####Features:
 
 Graph creation and manipulation
 
@@ -22,7 +22,7 @@ Graph statistics
 3. Get the Fieldler vector of a graph
 
 
-Experimental features
+####Experimental features
 
 1. Clique and bi-clique detection
 
