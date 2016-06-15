@@ -1,4 +1,4 @@
-##Aurora: A Javascript Graph Library for Visualization
+##Aurora: A Javascript Graph Library for Visualization (ongoing ...)
 
 ####Dependencies: 
 
