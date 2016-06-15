@@ -18,7 +18,7 @@
 
             if (this.hasNode(nid)) {
                 console.info('node ' + nid + 'already in')
-                return
+                return this
             }
 
             var n = {id: nid + ''}
@@ -29,11 +29,37 @@
             return this
         },
 
+        removeNode: function(nid) {
+
+            nid = nid + ''
+
+            if (!this.hasNode(nid)) {
+                console.info('node not in graph')
+                return this
+            }
+
+            var n = this.node(nid),
+                ins = this.adjlist[nid].ins,
+                outs = this.adjlist[nid].outs
+
+            for (var e in ins) {
+                this.removeLink(e)
+            }
+            for (var e in outs) {
+                this.removeLink(e)
+            }
+
+            delete this.nodes[nid]
+            delete this.adjlist[nid]
+
+            return this
+        },
+
         addLink: function(eid, src, tgt, params) {
 
             if (this.hasLink(eid)) {
                 console.info('link ' + eid + 'already in')
-                return
+                return this
             }
 
             var e = {
@@ -50,6 +76,27 @@
 
             this.adjlist[src]['outs'].push(eid)
             this.adjlist[tgt]['ins'].push(eid)
+
+            return this
+        },
+
+        removeLink: function(eid) {
+
+            eid = eid + ''
+
+            if (!this.hasLink(eid)) {
+                console.info('link not in graph')
+                return this
+            }
+
+            var e = this.link(eid),
+                outs = this.adjlist[e.src]['outs'],
+                ins = this.adjlist[e.tgt]['ins']
+
+            outs.splice(outs.indexOf(eid), 1)
+            ins.splice(ins.indexOf(eid), 1)
+
+            delete this.links[eid]
 
             return this
         },
@@ -226,6 +273,7 @@
 
     })
 
+    //
     _.extend(Graph.prototype, {
 
         adjmatrix: function(nids, weight=undefined) {
@@ -320,6 +368,22 @@
 
             return rs
         }        
+
+    })
+
+    _.extend(Graph.prototype, {
+
+        
+        cliques: function() {
+
+
+
+        }
+
+
+
+
+
 
     })
 
