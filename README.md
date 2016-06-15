@@ -2,7 +2,8 @@
 
 ####Dependencies: 
 
-science.js https://github.com/jasondavies/science.js/, underscore.js http://underscorejs.org/
+science.js https://github.com/jasondavies/science.js/
+underscore.js http://underscorejs.org/
 
 ####Features:
 
