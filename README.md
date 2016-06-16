@@ -23,15 +23,16 @@ Graph statistics
 
 ####Experimental features
 
-1. Clique and bi-clique detection
+TODO: Clique and bi-clique detection
 
 
 ####Data Set
 
-
+TODO
 
 ####Examples
 
+TODO
 
 More to come ...
 
