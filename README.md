@@ -18,11 +18,19 @@ Graph statistics
 
 1. Get adjacency matrix of a (weighted) graph
 2. Get laplacian matrix of a (weighted) graph
-3. Get the Fieldler vector of a graph
+3. Get the Fieldler vector for spectral graph partitioning or graph embedding
 
 
+TODO: Clique and bi-clique detection
 
 
+####Data Set
+
+TODO
+
+####Examples
+
+TODO
 
 More to come ...
 
