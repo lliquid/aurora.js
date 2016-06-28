@@ -1,0 +1,1053 @@
+Bahamas: {
+	Albania: 2
+	Andorra: 26
+	Argentina: 23
+	Australia: 2
+	Austria: 4
+	Azerbaijan: 4
+	Bahamas: 432
+	Barbados: 2
+	Belgium: 8
+	Belize: 250
+	Bermuda: 19
+	Brazil: 33
+	Bulgaria: 2
+	Canada: 35
+	Cayman Islands: 7
+	Chile: 14
+	China: 5
+	Colombia: 22
+	Costa Rica: 32
+	Cyprus: 649
+	Czech Republic: 2
+	Denmark: 4
+	Dominican Republic: 8
+	Ecuador: 49
+	Egypt: 5
+	El Salvador: 6
+	Estonia: 114
+	Finland: 32
+	France: 23
+	Germany: 1
+	Ghana: 1
+	Gibraltar: 150
+	Greece: 7
+	Guatemala: 39
+	Guernsey: 1504
+	Honduras: 1
+	Hong Kong: 960
+	Hungary: 4
+	Ireland: 25
+	Isle of Man: 883
+	Israel: 16
+	Italy: 3
+	Jamaica: 1
+	Jersey: 1241
+	Jordan: 14
+	Kenya: 1
+	Kuwait: 2
+	Latvia: 51
+	Lebanon: 7
+	Liechtenstein: 87
+	Lithuania: 2
+	Luxembourg: 423
+	Malaysia: 1
+	Malta: 11
+	Mauritius: 136
+	Mexico: 3
+	Monaco: 83
+	Netherlands: 28
+	New Zealand: 7
+	Nigeria: 5
+	Niue: 1
+	Norway: 1
+	Pakistan: 1
+	Panama: 1120
+	Paraguay: 10
+	Peru: 2
+	Philippines: 2
+	Poland: 58
+	Portugal: 44
+	Qatar: 4
+	Russian Federation: 1335
+	Saint Kitts and Nevis: 9
+	Samoa: 121
+	Saudi Arabia: 4
+	Seychelles: 67
+	Singapore: 93
+	Slovenia: 3
+	South Africa: 8
+	Spain: 163
+	Sweden: 22
+	Switzerland: 2127
+	Syrian Arab Republic: 2
+	Taiwan, Province of China: 242
+	Thailand: 25
+	Turkey: 3
+	Turks and Caicos Islands: 5
+	Ukraine: 82
+	United Arab Emirates: 648
+	United Kingdom: 1319
+	United States: 402
+	Uruguay: 317
+	Venezuela, Bolivarian Republic of: 18
+	Viet Nam: 2
+	Virgin Islands, British: 145
+	Virgin Islands, U.S.: 2
+}
+Belize: {
+	China: 1
+	Colombia: 19
+	Cyprus: 11
+	Ecuador: 5
+	Gibraltar: 2
+	Hong Kong: 6
+	Israel: 10
+	Luxembourg: 8
+	Monaco: 2
+	Panama: 40
+	Russian Federation: 3
+	Seychelles: 1
+	Singapore: 1
+	Switzerland: 4
+	United Arab Emirates: 1
+	United Kingdom: 2
+	United States: 2
+	Uruguay: 4
+	Venezuela, Bolivarian Republic of: 7
+	Virgin Islands, British: 1
+}
+Bermuda: {
+	Bermuda: 6
+}
+British Anguilla: {
+	Anguilla: 21
+	Aruba: 4
+	Australia: 1
+	Austria: 1
+	Bahamas: 45
+	Belgium: 1
+	Belize: 19
+	Brazil: 14
+	Canada: 2
+	Chile: 2
+	China: 148
+	Colombia: 59
+	Costa Rica: 11
+	Cyprus: 5
+	Dominican Republic: 24
+	Ecuador: 146
+	El Salvador: 1
+	Estonia: 1
+	France: 10
+	Georgia: 1
+	Germany: 1
+	Ghana: 1
+	Guatemala: 23
+	Guernsey: 27
+	Hong Kong: 1366
+	Ireland: 1
+	Isle of Man: 35
+	Israel: 150
+	Italy: 204
+	Jersey: 2
+	Kenya: 2
+	Liechtenstein: 5
+	Lithuania: 1
+	Luxembourg: 7
+	Malaysia: 1
+	Monaco: 4
+	Netherlands: 4
+	Panama: 278
+	Philippines: 1
+	Romania: 2
+	Russian Federation: 73
+	Samoa: 2
+	Seychelles: 2
+	Singapore: 15
+	Slovenia: 16
+	Spain: 3
+	Switzerland: 96
+	Taiwan, Province of China: 1
+	Thailand: 3
+	Ukraine: 1
+	United Arab Emirates: 242
+	United Kingdom: 31
+	United States: 32
+	Uruguay: 67
+	Venezuela, Bolivarian Republic of: 24
+	Virgin Islands, British: 1
+}
+British Virgin Islands: {
+	Andorra: 39
+	Angola: 10
+	Anguilla: 2
+	Antigua and Barbuda: 1
+	Argentina: 83
+	Aruba: 19
+	Australia: 64
+	Austria: 7
+	Azerbaijan: 4
+	Bahamas: 1762
+	Bahrain: 10
+	Bangladesh: 2
+	Barbados: 14
+	Belarus: 14
+	Belgium: 18
+	Belize: 166
+	Bermuda: 102
+	Bolivia, Plurinational State of: 2
+	Botswana: 2
+	Brazil: 472
+	Brunei Darussalam: 3
+	Bulgaria: 20
+	Canada: 188
+	Cayman Islands: 869
+	Central African Republic: 1
+	Chad: 10
+	Chile: 31
+	China: 2161
+	Colombia: 261
+	Cook Islands: 4
+	Costa Rica: 141
+	Croatia: 2
+	Cuba: 8
+	Curaçao: 10
+	Cyprus: 1868
+	Czech Republic: 24
+	Côte d'Ivoire: 10
+	Denmark: 4
+	Dominica: 4
+	Dominican Republic: 130
+	Ecuador: 252
+	Egypt: 12
+	El Salvador: 19
+	Estonia: 644
+	Finland: 25
+	France: 136
+	Germany: 32
+	Ghana: 1
+	Gibraltar: 1583
+	Greece: 60
+	Guam: 1
+	Guatemala: 184
+	Guernsey: 4715
+	Haiti: 3
+	Honduras: 4
+	Hong Kong: 27379
+	Hungary: 25
+	Iceland: 14
+	India: 12
+	Indonesia: 51
+	Ireland: 184
+	Isle of Man: 3023
+	Israel: 171
+	Italy: 31
+	Jamaica: 3
+	Japan: 14
+	Jersey: 10467
+	Jordan: 1144
+	Kazakhstan: 4
+	Kenya: 15
+	Korea, Democratic People's Republic of: 2
+	Korea, Republic of: 3
+	Kuwait: 8
+	Latvia: 1302
+	Lebanon: 209
+	Libya: 1
+	Liechtenstein: 1268
+	Lithuania: 4
+	Luxembourg: 3081
+	Macao: 24
+	Macedonia, the Former Yugoslav Republic of: 1
+	Malawi: 1
+	Malaysia: 40
+	Mali: 8
+	Malta: 462
+	Mauritius: 918
+	Mexico: 14
+	Moldova, Republic of: 2
+	Monaco: 1035
+	Montenegro: 12
+	Morocco: 21
+	Mozambique: 1
+	Netherlands: 76
+	New Zealand: 19
+	Nicaragua: 2
+	Nigeria: 12
+	Niue: 13
+	Norway: 5
+	Not identified: 195
+	Oman: 2
+	Pakistan: 1
+	Panama: 4787
+	Paraguay: 27
+	Peru: 10
+	Philippines: 18
+	Poland: 28
+	Portugal: 62
+	Qatar: 10
+	Romania: 2
+	Russian Federation: 2297
+	Saint Kitts and Nevis: 26
+	Saint Lucia: 3
+	Saint Vincent and the Grenadines: 3
+	Samoa: 250
+	Saudi Arabia: 74
+	Seychelles: 161
+	Singapore: 4027
+	Slovenia: 1
+	South Africa: 61
+	Spain: 186
+	Sri Lanka: 3
+	Sweden: 19
+	Switzerland: 19649
+	Taiwan, Province of China: 1818
+	Tanzania, United Republic of: 2
+	Thailand: 637
+	Trinidad and Tobago: 5
+	Tunisia: 3
+	Turkey: 69
+	Turks and Caicos Islands: 4
+	Uganda: 1
+	Ukraine: 150
+	United Arab Emirates: 3512
+	United Kingdom: 5430
+	United States: 1571
+	Uruguay: 1467
+	Uzbekistan: 5
+	Vanuatu: 3
+	Venezuela, Bolivarian Republic of: 122
+	Viet Nam: 15
+	Virgin Islands, British: 38791
+	Virgin Islands, U.S.: 2
+	Zambia: 2
+	Zimbabwe: 5
+}
+Brunei: {
+	Brunei Darussalam: 2
+}
+Cayman: {
+	Cayman Islands: 668
+	Hong Kong: 28
+	Panama: 1
+	Singapore: 8
+	Virgin Islands, British: 1
+}
+China: {
+	China: 1
+}
+Cook Islands: {
+	Cayman Islands: 9
+	Cook Islands: 547
+	Fiji: 1
+	Hong Kong: 4
+	Indonesia: 3
+	Malaysia: 1
+	Not identified: 5
+	Singapore: 46
+	Switzerland: 1
+	Taiwan, Province of China: 1
+	United States: 16
+}
+Costa Rica: {
+	Andorra: 3
+	Argentina: 1
+	Bahamas: 9
+	Chile: 1
+	Colombia: 42
+	Ecuador: 8
+	Luxembourg: 1
+	Panama: 5
+	Uruguay: 8
+}
+Cyprus: {
+	Bahamas: 2
+	Colombia: 1
+	Cyprus: 7
+	Estonia: 1
+	Germany: 1
+	Guernsey: 1
+	Isle of Man: 6
+	Israel: 4
+	Italy: 13
+	Jersey: 1
+	Liechtenstein: 1
+	Luxembourg: 6
+	Panama: 22
+	Peru: 1
+	Portugal: 5
+	Switzerland: 6
+	Uruguay: 1
+}
+Dubai: {
+	United Arab Emirates: 2
+}
+Hong Kong: {
+	Andorra: 9
+	Argentina: 4
+	Bahamas: 6
+	Belarus: 1
+	Belize: 44
+	Bolivia, Plurinational State of: 2
+	Brazil: 2
+	Cayman Islands: 59
+	China: 3
+	Colombia: 1
+	Cook Islands: 1
+	Costa Rica: 5
+	Cyprus: 4
+	Ecuador: 2
+	France: 2
+	Guernsey: 2
+	Hong Kong: 919
+	Ireland: 1
+	Isle of Man: 7
+	Israel: 1
+	Italy: 1
+	Jersey: 66
+	Latvia: 1
+	Lebanon: 3
+	Liechtenstein: 11
+	Luxembourg: 39
+	Malta: 1
+	Mexico: 1
+	Monaco: 1
+	Not identified: 3
+	Panama: 108
+	Peru: 1
+	Portugal: 1
+	Russian Federation: 3
+	Saint Kitts and Nevis: 14
+	Samoa: 16
+	Singapore: 5
+	Switzerland: 33
+	Thailand: 2
+	United Arab Emirates: 2
+	United Kingdom: 4
+	United States: 3
+	Uruguay: 5
+	Venezuela, Bolivarian Republic of: 8
+	Virgin Islands, British: 3
+}
+Ireland: {
+	Ireland: 1
+}
+Isle Of Man: {
+	Isle of Man: 7
+}
+Jersey: {
+	Jersey: 37
+	Spain: 1
+	United States: 1
+}
+Labuan: {
+	Hong Kong: 2
+	Malaysia: 421
+	Not identified: 2
+	Singapore: 6
+}
+Liberia: {
+	Liberia: 11
+}
+Malaysia: {
+	Malaysia: 71
+	Singapore: 5
+}
+Malta: {
+	Bahamas: 1
+	Colombia: 1
+	Estonia: 1
+	Gibraltar: 1
+	Israel: 4
+	Jersey: 3
+	Luxembourg: 6
+	Panama: 1
+	Romania: 1
+	Switzerland: 1
+	United Kingdom: 6
+	United States: 1
+	Uruguay: 1
+}
+Marshall Islands: {
+	Marshall Islands: 6
+}
+Mauritius: {
+	Mauritius: 75
+	Not identified: 3
+	Singapore: 2
+}
+Netherlands: {
+	Hong Kong: 1
+	Netherlands: 2
+}
+Nevada: {
+	Andorra: 24
+	Argentina: 4
+	Bahamas: 291
+	Brazil: 132
+	Canada: 2
+	Chile: 6
+	China: 9
+	Colombia: 10
+	Costa Rica: 2
+	Cyprus: 1
+	Côte d'Ivoire: 1
+	Ecuador: 199
+	El Salvador: 7
+	France: 1
+	Gibraltar: 2
+	Haiti: 5
+	Hong Kong: 43
+	Hungary: 1
+	Isle of Man: 7
+	Italy: 7
+	Jersey: 3
+	Luxembourg: 29
+	Mexico: 1
+	Monaco: 6
+	New Zealand: 1
+	Panama: 82
+	Paraguay: 5
+	Portugal: 2
+	Saint Kitts and Nevis: 4
+	Spain: 8
+	Switzerland: 149
+	Taiwan, Province of China: 4
+	Thailand: 17
+	United Arab Emirates: 1
+	United Kingdom: 15
+	United States: 96
+	Uruguay: 68
+	Venezuela, Bolivarian Republic of: 13
+	Virgin Islands, British: 2
+}
+New Zealand: {
+	Argentina: 1
+	Brazil: 1
+	Colombia: 3
+	Ecuador: 9
+	Malta: 9
+	New Zealand: 20
+	Panama: 2
+	Peru: 1
+	United States: 1
+}
+Niue: {
+	Andorra: 12
+	Antigua and Barbuda: 2
+	Argentina: 2
+	Australia: 4
+	Bahamas: 58
+	Belgium: 1
+	Belize: 228
+	Brazil: 91
+	Bulgaria: 1
+	Canada: 31
+	Cayman Islands: 1
+	China: 12
+	Colombia: 2
+	Cook Islands: 1
+	Costa Rica: 4
+	Cyprus: 313
+	Côte d'Ivoire: 1
+	Ecuador: 26
+	El Salvador: 1
+	Estonia: 68
+	Finland: 1
+	France: 18
+	Germany: 2
+	Gibraltar: 28
+	Guatemala: 140
+	Guernsey: 302
+	Hong Kong: 1055
+	Hungary: 25
+	India: 1
+	Ireland: 31
+	Isle of Man: 271
+	Israel: 11
+	Italy: 22
+	Japan: 2
+	Jersey: 344
+	Latvia: 13
+	Lebanon: 46
+	Liechtenstein: 49
+	Lithuania: 20
+	Luxembourg: 219
+	Malaysia: 4
+	Malta: 55
+	Mauritius: 32
+	Monaco: 49
+	Netherlands: 7
+	New Zealand: 13
+	Niue: 117
+	Panama: 1589
+	Paraguay: 1
+	Peru: 1
+	Philippines: 10
+	Poland: 40
+	Portugal: 56
+	Russian Federation: 366
+	Saint Kitts and Nevis: 2
+	Samoa: 78
+	Saudi Arabia: 3
+	Singapore: 98
+	South Africa: 7
+	Spain: 186
+	Sweden: 3
+	Switzerland: 2074
+	Taiwan, Province of China: 232
+	Thailand: 7
+	Turkey: 6
+	Ukraine: 2
+	United Arab Emirates: 136
+	United Kingdom: 741
+	United States: 86
+	Uruguay: 108
+	Venezuela, Bolivarian Republic of: 3
+	Virgin Islands, British: 2
+}
+Panama: {
+	Andorra: 279
+	Antigua and Barbuda: 15
+	Argentina: 146
+	Aruba: 4
+	Australia: 20
+	Austria: 12
+	Bahamas: 2256
+	Bahrain: 3
+	Barbados: 18
+	Belarus: 1
+	Belgium: 25
+	Belize: 423
+	Bermuda: 21
+	Bolivia, Plurinational State of: 91
+	Botswana: 1
+	Brazil: 521
+	Bulgaria: 5
+	Canada: 74
+	Cayman Islands: 33
+	Chad: 1
+	Chile: 83
+	China: 13
+	Colombia: 1357
+	Costa Rica: 686
+	Croatia: 1
+	Cuba: 3
+	Curaçao: 8
+	Cyprus: 305
+	Czech Republic: 6
+	Côte d'Ivoire: 7
+	Denmark: 4
+	Djibouti: 1
+	Dominica: 62
+	Dominican Republic: 312
+	Ecuador: 1101
+	Egypt: 20
+	El Salvador: 195
+	Estonia: 14
+	Finland: 3
+	France: 78
+	Germany: 129
+	Gibraltar: 195
+	Greece: 134
+	Guatemala: 801
+	Guernsey: 705
+	Honduras: 19
+	Hong Kong: 609
+	Hungary: 7
+	Iceland: 1
+	India: 2
+	Indonesia: 1
+	Iran, Islamic Republic of: 4
+	Ireland: 56
+	Isle of Man: 499
+	Israel: 126
+	Italy: 40
+	Japan: 7
+	Jersey: 2127
+	Jordan: 394
+	Kenya: 6
+	Korea, Republic of: 5
+	Kuwait: 36
+	Latvia: 12
+	Lebanon: 121
+	Liberia: 1
+	Libya: 1
+	Liechtenstein: 444
+	Lithuania: 6
+	Luxembourg: 5584
+	Malaysia: 2
+	Malta: 107
+	Mauritius: 108
+	Mexico: 39
+	Monaco: 1402
+	Montenegro: 1
+	Morocco: 2
+	Nauru: 1
+	Netherlands: 53
+	New Zealand: 10
+	Nicaragua: 10
+	Nigeria: 2
+	Niue: 236
+	Norway: 8
+	Pakistan: 1
+	Panama: 6091
+	Paraguay: 84
+	Peru: 35
+	Philippines: 9
+	Poland: 4
+	Portugal: 63
+	Puerto Rico: 1
+	Qatar: 12
+	Romania: 2
+	Russian Federation: 94
+	Saint Kitts and Nevis: 117
+	Saint Lucia: 1
+	Saint Vincent and the Grenadines: 3
+	Samoa: 160
+	Saudi Arabia: 24
+	Senegal: 1
+	Seychelles: 83
+	Singapore: 68
+	Sint Maarten (Dutch part): 1
+	Slovakia: 1
+	Slovenia: 1
+	South Africa: 33
+	Spain: 540
+	Sudan: 1
+	Sweden: 9
+	Switzerland: 11590
+	Syrian Arab Republic: 2
+	Taiwan, Province of China: 281
+	Tanzania, United Republic of: 1
+	Thailand: 16
+	Trinidad and Tobago: 1
+	Tunisia: 1
+	Turkey: 20
+	Turks and Caicos Islands: 2
+	Ukraine: 34
+	United Arab Emirates: 921
+	United Kingdom: 1666
+	United States: 794
+	Uruguay: 2653
+	Vanuatu: 1
+	Venezuela, Bolivarian Republic of: 526
+	Viet Nam: 1
+	Virgin Islands, British: 92
+	Virgin Islands, U.S.: 1
+	Yemen: 1
+	Zimbabwe: 3
+}
+Ras Al Khaimah: {
+	Isle of Man: 1
+	Switzerland: 1
+}
+Recorded in leaked files as "fund": {
+	Cayman Islands: 2
+	Not identified: 101
+}
+Samoa: {
+	Andorra: 9
+	Bahamas: 27
+	Belgium: 1
+	Belize: 45
+	Brazil: 43
+	Cayman Islands: 853
+	China: 363
+	Colombia: 6
+	Cook Islands: 1
+	Costa Rica: 2
+	Cyprus: 5
+	Czech Republic: 1
+	Côte d'Ivoire: 2
+	Dominican Republic: 1
+	Ecuador: 20
+	Estonia: 3
+	France: 3
+	Gibraltar: 14
+	Guatemala: 16
+	Guernsey: 19
+	Hong Kong: 3012
+	Hungary: 1
+	Indonesia: 2
+	Ireland: 11
+	Isle of Man: 70
+	Israel: 47
+	Italy: 3
+	Jersey: 17
+	Lebanon: 12
+	Liechtenstein: 32
+	Luxembourg: 13
+	Malaysia: 1
+	Mauritius: 9
+	Monaco: 20
+	Netherlands: 3
+	New Zealand: 3
+	Not identified: 6
+	Panama: 410
+	Poland: 1
+	Portugal: 10
+	Russian Federation: 5
+	Samoa: 8249
+	Seychelles: 14
+	Singapore: 122
+	Spain: 38
+	Switzerland: 545
+	Taiwan, Province of China: 265
+	Thailand: 13
+	Turkey: 1
+	United Arab Emirates: 56
+	United Kingdom: 45
+	United States: 11
+	Uruguay: 9
+	Venezuela, Bolivarian Republic of: 2
+}
+Seychelles: {
+	Andorra: 72
+	Antigua and Barbuda: 3
+	Argentina: 6
+	Australia: 4
+	Bahamas: 105
+	Belgium: 5
+	Belize: 175
+	Botswana: 3
+	Brazil: 79
+	Bulgaria: 22
+	Cameroon: 1
+	Canada: 17
+	Chile: 2
+	China: 528
+	Colombia: 18
+	Costa Rica: 2
+	Curaçao: 12
+	Cyprus: 448
+	Czech Republic: 1
+	Denmark: 2
+	Dominican Republic: 11
+	Ecuador: 26
+	Egypt: 1
+	El Salvador: 5
+	Estonia: 34
+	Finland: 4
+	France: 14
+	Germany: 8
+	Gibraltar: 64
+	Greece: 21
+	Guatemala: 30
+	Guernsey: 52
+	Hong Kong: 3749
+	Hungary: 27
+	India: 6
+	Indonesia: 2
+	Ireland: 13
+	Isle of Man: 80
+	Israel: 122
+	Italy: 22
+	Japan: 1
+	Jersey: 18
+	Jordan: 1
+	Kenya: 1
+	Kuwait: 13
+	Latvia: 1
+	Lebanon: 88
+	Lesotho: 1
+	Liechtenstein: 169
+	Luxembourg: 1420
+	Macao: 1
+	Macedonia, the Former Yugoslav Republic of: 1
+	Malaysia: 1
+	Malta: 31
+	Mauritius: 15
+	Mexico: 6
+	Monaco: 566
+	Morocco: 18
+	Mozambique: 2
+	Namibia: 2
+	Netherlands: 6
+	Nigeria: 2
+	Niue: 5
+	Panama: 1273
+	Peru: 1
+	Philippines: 4
+	Poland: 26
+	Qatar: 1
+	Russian Federation: 21
+	Saint Kitts and Nevis: 17
+	Samoa: 850
+	Saudi Arabia: 1
+	Senegal: 2
+	Seychelles: 753
+	Singapore: 126
+	Spain: 38
+	Sweden: 2
+	Switzerland: 1630
+	Taiwan, Province of China: 56
+	Thailand: 254
+	Turkey: 2
+	Turks and Caicos Islands: 1
+	Ukraine: 5
+	United Arab Emirates: 1750
+	United Kingdom: 313
+	United States: 68
+	Uruguay: 176
+	Venezuela, Bolivarian Republic of: 24
+	Virgin Islands, British: 11
+}
+Singapore: {
+	Cayman Islands: 1
+	Hong Kong: 3
+	India: 1
+	Indonesia: 3
+	Japan: 1
+	Malaysia: 1
+	Netherlands: 1
+	Singapore: 667
+	Switzerland: 1
+	Taiwan, Province of China: 1
+	United Kingdom: 1
+}
+St. Lucia: {
+	Saint Lucia: 4
+	Singapore: 1
+}
+Thailand: {
+	Hong Kong: 1
+	Thailand: 2
+}
+Undetermined: {
+	Andorra: 1
+	Antigua and Barbuda: 259
+	Australia: 23
+	Austria: 52
+	Bahamas: 6
+	Barbados: 1
+	Belarus: 19
+	Belgium: 2
+	Belize: 104
+	Bermuda: 1
+	Canada: 562
+	Cayman Islands: 18
+	China: 944
+	Cook Islands: 4
+	Costa Rica: 8
+	Croatia: 17
+	Curaçao: 34
+	Cyprus: 2621
+	Czech Republic: 139
+	Estonia: 1
+	Fiji: 2
+	Finland: 1
+	France: 19
+	Georgia: 1
+	Germany: 23
+	Gibraltar: 74
+	Greece: 1
+	Grenada: 3
+	Guernsey: 4
+	Hong Kong: 12157
+	Indonesia: 9
+	Ireland: 1613
+	Isle of Man: 1
+	Israel: 21
+	Italy: 1
+	Japan: 3
+	Jersey: 228
+	Kazakhstan: 4
+	Korea, Democratic People's Republic of: 5
+	Kuwait: 3
+	Latvia: 1561
+	Liechtenstein: 4
+	Luxembourg: 37
+	Malaysia: 9
+	Malta: 38
+	Mauritius: 51
+	Mexico: 3
+	Netherlands: 71
+	New Zealand: 12
+	Norway: 3
+	Not identified: 25359
+	Panama: 2295
+	Philippines: 5
+	Poland: 3
+	Portugal: 3
+	Puerto Rico: 2
+	Romania: 1
+	Russian Federation: 7317
+	Saint Kitts and Nevis: 203
+	Samoa: 3
+	Serbia: 9
+	Seychelles: 365
+	Singapore: 577
+	South Africa: 11
+	Spain: 4
+	Sweden: 29
+	Switzerland: 164
+	Syrian Arab Republic: 1
+	Taiwan, Province of China: 4
+	Thailand: 37
+	Turks and Caicos Islands: 29
+	Ukraine: 195
+	United Arab Emirates: 501
+	United Kingdom: 8248
+	United States: 3163
+	Vanuatu: 25
+	Venezuela, Bolivarian Republic of: 1
+	Viet Nam: 1
+	Virgin Islands, British: 29837
+	Virgin Islands, U.S.: 8
+}
+United Kingdom: {
+	American Samoa: 1
+	Andorra: 1
+	Bahamas: 4
+	Brazil: 6
+	Colombia: 51
+	Costa Rica: 1
+	Ecuador: 7
+	Isle of Man: 2
+	Jersey: 6
+	Luxembourg: 1
+	Mexico: 1
+	Panama: 5
+	Singapore: 1
+	Switzerland: 2
+	United Kingdom: 55
+	United States: 5
+	Uruguay: 3
+}
+United States Of America: {
+	United States: 2
+}
+Uruguay: {
+	Andorra: 15
+	Bahamas: 2
+	Brazil: 1
+	Colombia: 1
+	Ecuador: 2
+	Guernsey: 1
+	Isle of Man: 1
+	Luxembourg: 1
+	Panama: 7
+	Russian Federation: 2
+	Spain: 3
+	Switzerland: 2
+	Uruguay: 12
+	Venezuela, Bolivarian Republic of: 2
+}
+Vanuatu: {
+	Singapore: 1
+	Vanuatu: 5
+}
+Wyoming: {
+	Bahamas: 15
+	Belize: 1
+	Brazil: 4
+	Chile: 1
+	Jersey: 1
+	Luxembourg: 1
+	Panama: 5
+	Poland: 1
+	United Kingdom: 1
+	Uruguay: 7
+}
